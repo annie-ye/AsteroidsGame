@@ -1,3 +1,4 @@
+//your variable declarations here
 Spaceship bob = new Spaceship();
 Star[] nightSky = new Star[500];
 ArrayList <Asteroid> rock = new ArrayList <Asteroid>();
@@ -70,4 +71,3 @@ public void keyPressed()
     joe.add(new Bullet());
   }
 }
-
